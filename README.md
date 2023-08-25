@@ -48,7 +48,7 @@ Se debe incluir una sección main que incluya los llamados correspondientes a fu
 
 No se espera que la funcionalidad este completa durante la sesión pero es requisito realizar un commit/push al repo de la tarea ANTES del final de la sesión. Puedes completar la funcionalidad hasta antes del deadline indicado en el assignment.
 
-### ==:pushpin:Importante:==  
+### :pushpin:==Importante:==  
 > Incluir en el repo evidencia (imagen, video) de la ejecución en la terminal que muestre el correcto funcionamiento de la implementación. La evidencia se incluye como un  ejemplo y la ejecución se espera lo más similar posible.
 
 ![Evidencia](assets/EvidenciaTerminal.png)
