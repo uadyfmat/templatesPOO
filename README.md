@@ -34,4 +34,5 @@ Se debe incluir un main que incluya los llamados correspondientes a funciones pa
     }
 
 No se espera que la funcionalidad este completa durante la sesión pero es requisito realizar un commit/push al repo de la tarea ANTES del final de la sesión. Puedes completar la funcionalidad hasta antes del deadline indicado en el assignment.
-IMPORTANTE: Incluir en el repo evidencia (imagen, video) de la ejecución en la terminal que muestre el correcto funcionamiento de la implementación.
+
+**IMPORTANTE:** Incluir en el repo evidencia (imagen, video) de la ejecución en la terminal que muestre el correcto funcionamiento de la implementación.
