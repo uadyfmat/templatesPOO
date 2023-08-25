@@ -22,7 +22,7 @@ La funcionalidad que se implementará para la lista es la siguiente:
     void imprimirLista()
 El programa puede implementarse en C o C++. Puede utilizar estructuras y funciones por separado o definidas dentro de la estructura.
 
-Se debe incluir un main que incluya los llamados correpondientes para realizar las siguientes acciones:
+Se debe incluir un main que incluya los llamados correspondientes a funciones para realizar las siguientes acciones:
 
     int main(){
     //Crear 5 instancias de estructuras Alumno
