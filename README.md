@@ -14,10 +14,10 @@ Considera la siguiente Estructura de Datos **Alumno** que contiene los datos:
      - Créditos Aprobados( int),
      - Semestre equivalente (int).
  ```
-![EstructurDiagrama de Alumno](assets/Alumno.drawio.png)
+
 
 <p align="center">
-  <img width="300" src="assets/ListaAlumnos.drawio.png">
+  <img src="assets/Alumno.drawio.png">
 </p>
  
 Se creará una lista (simplemente enlazada) para mantener la información de los alumnos.  Cada nodo de la lista ***contiene*** en el dato una estructura Alumno y un apuntador al siguiente nodo.
