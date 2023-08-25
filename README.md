@@ -43,7 +43,7 @@ Se debe incluir una sección main que incluya los llamados correspondientes a fu
 
     
     //crear la lista con las 5 instancias de Alumno
-    //insertar de forma ordenada de acuerdo al número de créditos (ascendente)
+    //insertar de forma ordenada de acuerdo al número de créditos (descendente)
     //imprimir la lista
 }
 ```
