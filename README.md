@@ -7,7 +7,8 @@ Considera la siguiente Estructura de Datos **Alumno** que contiene los datos:
  - Nombre Completo (cadena),  
  - Créditos Aprobados( int),
  - Semestre equivalente (int).
-
+ ![Diagrama de Alumno](assets/Alumno.drawio.png)
+ 
 Se creará una lista (simplemente enlazada) para mantener la información de los alumnos.  Cada nodo de la lista ***contiene*** en el dato una estructura Alumno y un apuntador al siguiente nodo.
 
 La lista simplemente enlazada y la estructura Alumno se deben crear en memoria dinámica. 
