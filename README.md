@@ -50,6 +50,7 @@ No se espera que la funcionalidad este completa durante la sesión pero es requi
 
 > :pushpin: **Importante:**    
 > Incluir en el repo evidencia (imagen, video) de la ejecución en la terminal que muestre el correcto funcionamiento de la implementación. La evidencia se incluye como un  ejemplo y la ejecución se espera lo más similar posible.
+>La implementación que se solicita es la mínima indispensable, pero pueden agregar más funciones si así lo requieren. Lo relevante es cuidar el principio de ***responsabilidad única***.
 
 ![Evidencia](assets/EvidenciaTerminal.png)
 
