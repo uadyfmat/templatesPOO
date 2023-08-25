@@ -1,4 +1,4 @@
-# templatesPOO
+# Ejercicio de Práctica-PD
 #  Lista de Alumnos.
 
 ## Instrucciones:
