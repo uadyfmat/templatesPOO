@@ -33,4 +33,4 @@ Se debe incluir un main que incluya los llamados correpondientes para realizar l
 
     }
 
-No se espera que la funcionalidad este completa durante la sesión pero es requisito realizar un commit/pull ANTES del final de la sesión. Puedes completar la funcionalidad hasta antes del deadline indicado en el assignment.
+No se espera que la funcionalidad este completa durante la sesión pero es requisito realizar un commit/push al repo de la tarea ANTES del final de la sesión. Puedes completar la funcionalidad hasta antes del deadline indicado en el assignment.
