@@ -3,9 +3,11 @@
 :sweat_smile: :hammer:
 ## Instrucciones:
 
-Considera expresión aritmética puede estar conformada de los operadores '+', '-', '*' y '/', '(' y ')'.
+Considera expresión aritmética puede estar conformada de los operadores '+', '-', '*' y '/', '(' y ')'.Las expresiones aritméticas consideran únicamente datos enteros (positivos y negativos).
 
-Utilizando el paradigma POO define e implementa las estructuras de datos y las funciones correspondientes (clases) para  ***evaluar y resolver*** una expresión aritmética. La evaluación debe determinar si es una expresión aritmética esta bien construida (sintáxois correcta). Si esta bien construida, se debe contar una funcionalidad que resuelva la expresión aritmética, es decir devolver el resultado numérico correspondiente. Como parte del proceso de abstracción es importante considerar los casos alternativos para la evaluación y resolución (ejemplo: división por cero, error de sintaxis en la expresión, manejo de errores, etc)
+Utilizando el paradigma POO define e implementa las estructuras de datos y las funciones correspondientes (clases) para  ***evaluar y resolver*** una expresión aritmética. La evaluación debe determinar si es una expresión aritmética esta bien construida (sintáxis correcta). 
+
+Si esta bien construida, la implementación debe contar con una funcionalidad que resuelva la expresión aritmética, es decir devolver el resultado numérico correspondiente. Como parte del proceso de abstracción es importante considerar los casos alternativos para la evaluación y resolución (ejemplo: división por cero, error de sintaxis en la expresión, manejo de errores, etc)
 
 Como resultado de la PD se deben entregar los siguientes artefactos:
 -Documentación (md) de las diferencias fundamentales de una implementación de OO vs Estructurada (ventajas o desventajas). Es importante explicar las abstracciones y relaciones entre clases. Mantener los principios de modularidad, cohesión y responsabilidad única.
